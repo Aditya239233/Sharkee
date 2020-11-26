@@ -1,0 +1,21 @@
+ID,Text_,Status_,EmployeeID,Filed_date_time,Handled_date_time,UserID
+1,I did not receive my product,addressed,69,21/1/2020 2:52:05,22/1/2020 9:39:27,112
+2,Shop owner very rude,addressed,31,25/1/2020 4:53:48,26/1/2020 12:41:57,116
+3,Product is different colour,addressed,79,26/1/2020 19:34:30,29/1/2020 5:56:54,61
+4,Product has many scratches,addressed,100,4/2/2020 10:46:07,7/2/2020 22:04:03,212
+5,Shop owner did not reply to my message,addressed,69,9/2/2020 19:04:49,11/2/2020 9:35:34,184
+6,I am not happy with the shop reply,addressed,20,16/3/2020 2:13:00,21/3/2020 11:47:48,24
+7,Product is of wrong size,addressed,69,20/3/2020 16:03:54,22/3/2020 2:25:22,61
+8,Product is expired,addressed,70,9/4/2020 1:58:30,14/4/2020 19:02:27,287
+9,I did not receive my item,addressed,27,13/4/2020 17:34:07,16/4/2020 21:15:07,132
+10,My product came damaged,addressed,85,23/5/2020 8:30:01,23/5/2020 23:30:01,17
+11,Very rude to customer,addressed,11,24/5/2020 15:22:31,25/5/2020 11:45:31,61
+12,Missing item,addressed,4,19/6/2020 20:07:32,23/6/2020 11:12:32,249
+13,Product has many defects,addressed,70,18/6/2020 21:52:21,19/6/2020 12:52:21,215
+14,Product is different in colour,being handled,15,15/8/2020 0:55:29,NULL,198
+15,Shop owner very rude,pending,NULL,16/8/2020 22:51:45,NULL,212
+16,Product has many scratches,pending,NULL,17/8/2020 5:36:52,NULL,234
+17,I did not receive my product,being handled,29,18/8/2020 8:15:49,NULL,209
+18,Product is of wrong size,pending,NULL,23/8/2020 15:17:23,NULL,179
+19,I received a different item,pending,NULL,24/8/2020 21:24:31,NULL,61
+20,Product is expired,pending,NULL,25/8/2020 23:45:45,NULL,9

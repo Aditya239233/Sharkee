@@ -1,0 +1,401 @@
+UserID,Date_time,Pname,Sname,OrderID,Rating,Comment
+158,2020/8/1 2:45:56,Peach Tea,sharkee_shop_3,92,2,"Tasteless drink, doesn’t taste like peach"
+124,2020/8/1 3:08:21,Airism Black T-shirt,sharkee_shop_4,399,5,Excellent shirt
+215,2020/8/1 5:19:31,Airism Black T-shirt,sharkee_shop_3,274,5,Excellent shirt
+244,2020/8/1 6:17:46,Airism White T-shirt,sharkee_shop_4,369,5,Excellent shirt
+113,2020/8/1 7:35:30,Airism Black T-shirt,sharkee_shop_3,355,5,Excellent shirt
+114,2020/8/1 9:24:58,Airism Black T-shirt,sharkee_shop_4,395,5,Excellent shirt
+158,2020/8/1 12:00:55,Peach Tea,sharkee_shop_3,50,2,"Tasteless drink, doesn’t taste like peach"
+187,2020/8/1 13:04:10,Airism Black T-shirt,sharkee_shop_4,76,5,Excellent shirt
+178,2020/8/1 16:05:36,Airism White T-shirt,sharkee_shop_4,382,5,Excellent shirt
+29,2020/8/1 18:32:15,Skinny Tapered Jeans,sharkee_shop_5,383,2,Poor quality
+9,2020/8/1 21:31:25,Airism White T-shirt,sharkee_shop_5,121,5,Excellent shirt
+289,2020/8/2 0:44:48,Airism Black T-shirt,sharkee_shop_1,65,5,Excellent shirt
+195,2020/8/2 3:03:14,iPhone Xs,sharkee_shop_1,307,5,Amazing phone
+11,2020/8/2 7:39:58,Airism Black T-shirt,sharkee_shop_3,278,5,Excellent shirt
+183,2020/8/2 9:15:14,Airism White T-shirt,sharkee_shop_1,234,2,Not comfortable
+121,2020/8/2 11:03:37,Peach Tea,sharkee_shop_3,398,2,"Tasteless drink, doesn’t taste like peach"
+123,2020/8/2 15:19:11,Skinny Tapered Jeans,sharkee_shop_5,311,2,Poor quality
+30,2020/8/2 16:49:24,Airism White T-shirt,sharkee_shop_5,155,5,Excellent shirt
+217,2020/8/2 17:59:22,Airism Black T-shirt,sharkee_shop_3,352,5,Excellent shirt
+278,2020/8/2 18:49:48,Airism Black T-shirt,sharkee_shop_5,292,5,Excellent shirt
+134,2020/8/2 18:56:20,iPhone Xs,sharkee_shop_1,309,5,Amazing phone
+61,2020/8/2 19:10:58,Airism White T-shirt,sharkee_shop_5,94,5,Excellent shirt
+270,2020/8/2 20:11:47,Airism Black T-shirt,sharkee_shop_3,248,5,Excellent shirt
+269,2020/8/2 23:45:29,Airism Black T-shirt,sharkee_shop_5,389,4,Soft and airy
+147,2020/8/3 0:48:27,Peach Tea,sharkee_shop_3,193,2,"Tasteless drink, doesn’t taste like peach"
+14,2020/8/3 3:51:06,iPhone Xs,sharkee_shop_1,301,5,Amazing phone
+234,2020/8/3 5:07:23,Airism White T-shirt,sharkee_shop_1,207,3,Not comfortable
+36,2020/8/3 9:25:24,Airism White T-shirt,sharkee_shop_3,86,5,Excellent shirt
+5,2020/8/3 11:50:05,Airism Black T-shirt,sharkee_shop_3,271,5,Excellent shirt
+279,2020/8/3 13:20:44,Airism Black T-shirt,sharkee_shop_4,20,5,Excellent shirt
+140,2020/8/3 14:55:19,Airism Black T-shirt,sharkee_shop_5,213,5,Excellent shirt
+283,2020/8/3 14:56:37,Airism Black T-shirt,sharkee_shop_1,51,5,Excellent shirt
+33,2020/8/3 18:46:54,Skinny Tapered Jeans,sharkee_shop_5,345,2,Poor quality
+109,2020/8/3 19:20:47,Airism Black T-shirt,sharkee_shop_4,388,5,Excellent shirt
+249,2020/8/3 19:28:57,Airism Black T-shirt,sharkee_shop_1,12,5,Excellent shirt
+289,2020/8/3 19:51:48,Airism White T-shirt,sharkee_shop_3,24,5,Excellent shirt
+12,2020/8/3 21:39:17,Airism Black T-shirt,sharkee_shop_4,380,5,Excellent shirt
+50,2020/8/3 21:45:37,Airism Black T-shirt,sharkee_shop_5,358,4,Soft and airy
+130,2020/8/3 22:14:59,Airism Black T-shirt,sharkee_shop_5,288,5,Excellent shirt
+51,2020/8/3 22:45:17,Airism White T-shirt,sharkee_shop_1,280,3,the white colour is yellowish
+52,2020/8/4 0:45:18,Airism Black T-shirt,sharkee_shop_5,210,5,Excellent shirt
+206,2020/8/4 2:10:07,Airism White T-shirt,sharkee_shop_4,312,5,Excellent shirt
+111,2020/8/4 3:25:23,Airism White T-shirt,sharkee_shop_4,293,5,Excellent shirt
+298,2020/8/4 7:06:16,Airism White T-shirt,sharkee_shop_1,276,3,the white colour is yellowish
+96,2020/8/4 8:51:15,Airism White T-shirt,sharkee_shop_3,133,5,Excellent shirt
+79,2020/8/4 11:22:40,Airism Black T-shirt,sharkee_shop_1,43,5,Excellent shirt
+268,2020/8/4 12:35:07,Airism Black T-shirt,sharkee_shop_1,79,5,Excellent shirt
+129,2020/8/4 14:01:59,Peach Tea,sharkee_shop_3,62,2,"Tasteless drink, doesn’t taste like peach"
+68,2020/8/4 15:33:12,Airism White T-shirt,sharkee_shop_1,177,3,the white colour is yellowish
+202,2020/8/4 16:08:27,Airism White T-shirt,sharkee_shop_5,208,5,Excellent shirt
+167,2020/8/4 21:06:30,Airism White T-shirt,sharkee_shop_5,140,5,Excellent shirt
+218,2020/8/4 21:38:21,Skinny Tapered Jeans,sharkee_shop_5,339,2,Poor quality
+280,2020/8/4 21:51:09,Airism White T-shirt,sharkee_shop_3,25,5,Excellent shirt
+178,2020/8/4 22:18:29,Airism White T-shirt,sharkee_shop_1,77,5,Excellent shirt
+148,2020/8/4 22:39:21,Airism Black T-shirt,sharkee_shop_3,137,5,Excellent shirt
+96,2020/8/4 23:01:12,Airism White T-shirt,sharkee_shop_5,222,5,Excellent shirt
+43,2020/8/4 23:14:45,Airism White T-shirt,sharkee_shop_3,60,5,Excellent shirt
+44,2020/8/4 23:44:44,Airism White T-shirt,sharkee_shop_4,266,5,Excellent shirt
+185,2020/8/4 23:49:23,Airism Black T-shirt,sharkee_shop_5,197,5,Excellent shirt
+155,2020/8/5 2:24:19,Airism Black T-shirt,sharkee_shop_5,289,5,Excellent shirt
+194,2020/8/5 4:18:00,Peach Tea,sharkee_shop_3,257,2,"Tasteless drink, doesn’t taste like peach"
+293,2020/8/5 6:04:47,Airism White T-shirt,sharkee_shop_5,237,5,Excellent shirt
+17,2020/8/5 9:01:22,Peach Tea,sharkee_shop_3,196,2,"Tasteless drink, doesn’t taste like peach"
+209,2020/8/5 10:53:45,Peach Tea,sharkee_shop_3,26,2,"Tasteless drink, doesn’t taste like peach"
+115,2020/8/5 11:44:40,Airism Black T-shirt,sharkee_shop_5,330,4,Soft and airy
+80,2020/8/5 12:05:18,Airism White T-shirt,sharkee_shop_1,88,5,Excellent shirt
+110,2020/8/5 14:13:42,Airism White T-shirt,sharkee_shop_1,244,3,the white colour is yellowish
+271,2020/8/5 17:26:41,Skinny Tapered Jeans,sharkee_shop_5,263,2,Poor quality
+215,2020/8/5 17:27:10,Airism White T-shirt,sharkee_shop_3,122,5,Excellent shirt
+89,2020/8/5 18:18:29,Airism Black T-shirt,sharkee_shop_3,218,5,Excellent shirt
+89,2020/8/5 23:18:02,Airism Black T-shirt,sharkee_shop_5,375,4,Soft and airy
+274,2020/8/5 23:32:17,Airism Black T-shirt,sharkee_shop_5,220,5,Excellent shirt
+16,2020/8/6 0:40:59,Skinny Tapered Jeans,sharkee_shop_5,291,2,Poor quality
+279,2020/8/6 1:29:37,Airism White T-shirt,sharkee_shop_1,57,5,Excellent shirt
+7,2020/8/6 3:17:33,Airism White T-shirt,sharkee_shop_4,400,5,Excellent shirt
+257,2020/8/6 3:32:21,Airism White T-shirt,sharkee_shop_4,305,5,Excellent shirt
+147,2020/8/6 4:17:47,Airism White T-shirt,sharkee_shop_1,69,5,Excellent shirt
+159,2020/8/6 4:52:45,Airism White T-shirt,sharkee_shop_1,47,5,Excellent shirt
+248,2020/8/6 7:25:34,Airism White T-shirt,sharkee_shop_1,41,5,Excellent shirt
+262,2020/8/6 8:28:28,Airism Black T-shirt,sharkee_shop_4,111,5,Excellent shirt
+102,2020/8/6 10:33:12,Airism White T-shirt,sharkee_shop_3,149,5,Excellent shirt
+277,2020/8/6 12:38:25,Airism Black T-shirt,sharkee_shop_5,344,4,Soft and airy
+278,2020/8/6 17:35:16,Airism Black T-shirt,sharkee_shop_1,134,5,Excellent shirt
+17,2020/8/6 17:42:50,Airism White T-shirt,sharkee_shop_5,142,5,Excellent shirt
+257,2020/8/6 20:23:08,Airism Black T-shirt,sharkee_shop_4,102,5,Excellent shirt
+212,2020/8/6 23:37:23,Airism White T-shirt,sharkee_shop_1,259,3,the white colour is yellowish
+85,2020/8/6 23:41:40,Airism White T-shirt,sharkee_shop_5,204,5,Excellent shirt
+17,2020/8/7 0:39:34,Airism White T-shirt,sharkee_shop_1,10,5,Excellent shirt
+33,2020/8/7 1:45:08,Peach Tea,sharkee_shop_3,182,2,"Tasteless drink, doesn’t taste like peach"
+121,2020/8/7 2:45:38,Airism Black T-shirt,sharkee_shop_3,282,5,Excellent shirt
+211,2020/8/7 3:51:37,Skinny Tapered Jeans,sharkee_shop_5,294,2,Poor quality
+206,2020/8/7 4:22:30,Airism White T-shirt,sharkee_shop_3,163,3,the white colour is yellowish
+189,2020/8/7 5:00:33,Airism Black T-shirt,sharkee_shop_5,318,5,Excellent shirt
+45,2020/8/7 12:56:18,Airism Black T-shirt,sharkee_shop_5,297,5,Excellent shirt
+231,2020/8/7 13:58:56,Peach Tea,sharkee_shop_3,393,2,"Tasteless drink, doesn’t taste like peach"
+188,2020/8/7 15:55:54,Airism White T-shirt,sharkee_shop_5,238,5,Excellent shirt
+91,2020/8/7 18:23:26,Airism Black T-shirt,sharkee_shop_1,95,5,Excellent shirt
+201,2020/8/7 19:51:57,Airism White T-shirt,sharkee_shop_1,205,3,the white colour is yellowish
+282,2020/8/7 19:54:11,Peach Tea,sharkee_shop_3,103,2,"Tasteless drink, doesn’t taste like peach"
+162,2020/8/7 21:53:33,iPhone Xs,sharkee_shop_1,306,5,Amazing phone
+118,2020/8/7 22:46:08,Airism White T-shirt,sharkee_shop_3,170,3,the white colour is yellowish
+73,2020/8/7 23:59:15,Skinny Tapered Jeans,sharkee_shop_5,335,2,Poor quality
+187,2020/8/8 2:28:46,Airism Black T-shirt,sharkee_shop_4,120,5,Excellent shirt
+37,2020/8/8 2:32:31,Airism White T-shirt,sharkee_shop_3,98,5,Excellent shirt
+277,2020/8/8 2:50:53,Peach Tea,sharkee_shop_3,394,2,"Tasteless drink, doesn’t taste like peach"
+283,2020/8/8 3:30:07,Airism Black T-shirt,sharkee_shop_4,340,5,Excellent shirt
+280,2020/8/8 4:41:01,iPhone Xs,sharkee_shop_1,316,5,Amazing phone
+237,2020/8/8 5:25:11,Airism White T-shirt,sharkee_shop_1,239,3,the white colour is yellowish
+104,2020/8/8 6:53:49,Airism Black T-shirt,sharkee_shop_1,96,5,Excellent shirt
+244,2020/8/8 9:36:42,Skinny Tapered Jeans,sharkee_shop_5,374,2,Poor quality
+74,2020/8/8 13:41:51,Peach Tea,sharkee_shop_3,144,2,"Tasteless drink, doesn’t taste like peach"
+220,2020/8/8 14:38:13,Airism Black T-shirt,sharkee_shop_4,372,5,Excellent shirt
+90,2020/8/8 16:16:10,Airism White T-shirt,sharkee_shop_5,138,5,Excellent shirt
+167,2020/8/8 17:07:38,iPhone Xs,sharkee_shop_1,331,5,Amazing phone
+129,2020/8/8 19:12:14,Airism Black T-shirt,sharkee_shop_5,202,5,Excellent shirt
+141,2020/8/8 19:38:52,Airism Black T-shirt,sharkee_shop_3,265,5,Excellent shirt
+56,2020/8/8 20:18:45,Peach Tea,sharkee_shop_3,203,2,"Tasteless drink, doesn’t taste like peach"
+147,2020/8/8 23:17:05,Airism White T-shirt,sharkee_shop_1,223,3,the white colour is yellowish
+36,2020/8/9 1:18:44,Airism Black T-shirt,sharkee_shop_3,231,5,Excellent shirt
+247,2020/8/9 2:23:17,Airism Black T-shirt,sharkee_shop_1,128,5,Excellent shirt
+48,2020/8/9 3:49:12,Peach Tea,sharkee_shop_3,2,2,"Tasteless drink, doesn’t taste like peach"
+132,2020/8/9 5:21:15,Peach Tea,sharkee_shop_3,189,2,"Tasteless drink, doesn’t taste like peach"
+198,2020/8/9 5:46:13,Airism Black T-shirt,sharkee_shop_5,333,4,Soft and airy
+148,2020/8/9 6:04:18,Airism Black T-shirt,sharkee_shop_5,328,4,Soft and airy
+189,2020/8/9 9:20:41,Peach Tea,sharkee_shop_3,87,2,"Tasteless drink, doesn’t taste like peach"
+245,2020/8/9 11:41:08,Skinny Tapered Jeans,sharkee_shop_5,315,2,Poor quality
+259,2020/8/9 16:12:15,Airism Black T-shirt,sharkee_shop_4,75,5,Excellent shirt
+232,2020/8/9 17:14:31,Airism Black T-shirt,sharkee_shop_5,391,4,Soft and airy
+150,2020/8/9 20:26:51,Skinny Tapered Jeans,sharkee_shop_5,298,2,Poor quality
+253,2020/8/9 22:22:10,Peach Tea,sharkee_shop_3,214,2,"Tasteless drink, doesn’t taste like peach"
+31,2020/8/9 22:25:57,Peach Tea,sharkee_shop_3,4,2,"Tasteless drink, doesn’t taste like peach"
+287,2020/8/10 0:20:03,Airism White T-shirt,sharkee_shop_3,56,5,Excellent shirt
+188,2020/8/10 4:10:39,Airism Black T-shirt,sharkee_shop_4,118,5,Excellent shirt
+80,2020/8/10 20:36:19,Airism White T-shirt,sharkee_shop_5,254,5,Excellent shirt
+106,2020/8/10 21:57:46,Peach Tea,sharkee_shop_3,341,5,"Tasteless drink, doesn’t taste like peach"
+184,2020/8/11 2:27:29,Airism White T-shirt,sharkee_shop_1,253,3,the white colour is yellowish
+143,2020/8/11 3:26:49,Airism Black T-shirt,sharkee_shop_1,16,5,Excellent shirt
+46,2020/8/11 5:29:06,Peach Tea,sharkee_shop_3,227,2,"Tasteless drink, doesn’t taste like peach"
+200,2020/8/11 7:29:23,Airism Black T-shirt,sharkee_shop_3,194,5,Excellent shirt
+236,2020/8/11 8:07:54,Airism White T-shirt,sharkee_shop_3,123,5,Excellent shirt
+2,2020/8/11 8:19:27,Airism Black T-shirt,sharkee_shop_4,29,5,Excellent shirt
+138,2020/8/11 8:50:03,Peach Tea,sharkee_shop_3,381,2,"Tasteless drink, doesn’t taste like peach"
+168,2020/8/11 9:21:08,Airism Black T-shirt,sharkee_shop_1,126,5,Excellent shirt
+282,2020/8/11 9:31:58,Airism White T-shirt,sharkee_shop_3,151,5,Excellent shirt
+139,2020/8/11 10:08:29,Airism Black T-shirt,sharkee_shop_5,303,5,Excellent shirt
+6,2020/8/11 10:10:20,Airism Black T-shirt,sharkee_shop_3,215,5,Excellent shirt
+125,2020/8/11 11:06:39,Skinny Tapered Jeans,sharkee_shop_5,327,2,Poor quality
+24,2020/8/11 12:20:21,Airism White T-shirt,sharkee_shop_1,181,2,Not comfortable
+210,2020/8/11 12:34:40,Airism White T-shirt,sharkee_shop_5,233,5,Excellent shirt
+37,2020/8/11 15:49:16,Airism White T-shirt,sharkee_shop_1,247,2,Not comfortable
+200,2020/8/11 16:56:22,Airism Black T-shirt,sharkee_shop_1,67,5,Excellent shirt
+230,2020/8/11 18:54:48,Airism White T-shirt,sharkee_shop_3,66,5,Excellent shirt
+87,2020/8/12 8:01:07,Peach Tea,sharkee_shop_3,124,2,"Tasteless drink, doesn’t taste like peach"
+29,2020/8/12 8:21:06,Airism White T-shirt,sharkee_shop_5,109,5,Excellent shirt
+244,2020/8/12 8:52:58,Peach Tea,sharkee_shop_3,169,2,"Tasteless drink, doesn’t taste like peach"
+2,2020/8/12 10:17:25,Airism White T-shirt,sharkee_shop_1,226,3,the white colour is yellowish
+138,2020/8/12 10:27:02,Airism Black T-shirt,sharkee_shop_4,397,5,Excellent shirt
+265,2020/8/12 13:39:24,Airism White T-shirt,sharkee_shop_4,286,5,Excellent shirt
+68,2020/8/12 14:44:24,Airism Black T-shirt,sharkee_shop_4,34,5,Excellent shirt
+134,2020/8/12 18:48:23,Airism Black T-shirt,sharkee_shop_5,236,5,Excellent shirt
+239,2020/8/12 19:08:43,Airism Black T-shirt,sharkee_shop_5,216,5,Excellent shirt
+8,2020/8/13 0:30:14,Peach Tea,sharkee_shop_3,15,2,"Tasteless drink, doesn’t taste like peach"
+262,2020/8/13 1:55:19,Airism White T-shirt,sharkee_shop_5,168,5,Excellent shirt
+141,2020/8/13 3:10:16,Peach Tea,sharkee_shop_3,148,2,"Tasteless drink, doesn’t taste like peach"
+157,2020/8/13 4:11:49,Airism Black T-shirt,sharkee_shop_3,190,5,Excellent shirt
+167,2020/8/13 8:09:52,Airism Black T-shirt,sharkee_shop_5,342,4,Soft and airy
+203,2020/8/13 9:37:53,Airism White T-shirt,sharkee_shop_1,74,5,Excellent shirt
+42,2020/8/13 10:02:10,Airism White T-shirt,sharkee_shop_4,302,5,Excellent shirt
+18,2020/8/13 11:15:18,Peach Tea,sharkee_shop_3,63,2,"Tasteless drink, doesn’t taste like peach"
+255,2020/8/13 12:49:36,Airism White T-shirt,sharkee_shop_3,143,5,Excellent shirt
+281,2020/8/13 15:22:37,Airism White T-shirt,sharkee_shop_5,156,5,Excellent shirt
+61,2020/8/13 19:21:44,Peach Tea,sharkee_shop_3,219,2,"Tasteless drink, doesn’t taste like peach"
+286,2020/8/13 23:42:47,Airism Black T-shirt,sharkee_shop_5,361,4,Soft and airy
+23,2020/8/13 23:47:55,Airism Black T-shirt,sharkee_shop_1,113,5,Excellent shirt
+234,2020/8/14 1:26:21,Skinny Tapered Jeans,sharkee_shop_5,354,2,Poor quality
+261,2020/8/14 3:03:57,Airism Black T-shirt,sharkee_shop_4,52,5,Excellent shirt
+234,2020/8/14 5:52:42,Peach Tea,sharkee_shop_3,48,2,"Tasteless drink, doesn’t taste like peach"
+249,2020/8/14 9:51:48,Airism White T-shirt,sharkee_shop_1,27,5,Excellent shirt
+171,2020/8/14 10:32:01,Airism White T-shirt,sharkee_shop_1,35,5,Excellent shirt
+149,2020/8/14 10:52:56,Skinny Tapered Jeans,sharkee_shop_5,357,2,Poor quality
+156,2020/8/14 13:24:27,Skinny Tapered Jeans,sharkee_shop_5,279,2,Poor quality
+164,2020/8/14 14:09:37,Airism White T-shirt,sharkee_shop_3,116,5,Excellent shirt
+45,2020/8/14 14:15:30,Airism Black T-shirt,sharkee_shop_4,85,5,Excellent shirt
+184,2020/8/14 17:20:31,Peach Tea,sharkee_shop_3,71,2,"Tasteless drink, doesn’t taste like peach"
+54,2020/8/14 18:13:40,Airism Black T-shirt,sharkee_shop_3,347,5,Excellent shirt
+132,2020/8/14 20:24:43,Airism White T-shirt,sharkee_shop_1,23,5,Excellent shirt
+78,2020/8/14 21:46:32,Airism Black T-shirt,sharkee_shop_4,17,5,Excellent shirt
+249,2020/8/14 22:47:47,Airism Black T-shirt,sharkee_shop_4,6,5,Excellent shirt
+218,2020/8/15 0:21:45,Skinny Tapered Jeans,sharkee_shop_5,295,2,Poor quality
+68,2020/8/15 0:51:50,Airism Black T-shirt,sharkee_shop_5,304,5,Excellent shirt
+50,2020/8/15 1:14:52,Airism Black T-shirt,sharkee_shop_5,320,4,Soft and airy
+38,2020/8/15 3:31:50,Airism White T-shirt,sharkee_shop_5,157,5,Excellent shirt
+11,2020/8/15 6:04:30,Peach Tea,sharkee_shop_3,174,2,"Tasteless drink, doesn’t taste like peach"
+57,2020/8/15 12:48:50,Airism White T-shirt,sharkee_shop_3,100,5,Excellent shirt
+112,2020/8/15 13:50:22,Peach Tea,sharkee_shop_3,64,2,"Tasteless drink, doesn’t taste like peach"
+77,2020/8/15 16:33:05,Skinny Tapered Jeans,sharkee_shop_5,325,2,Poor quality
+33,2020/8/15 17:23:59,iPhone Xs,sharkee_shop_1,310,5,Amazing phone
+154,2020/8/15 18:42:14,Airism White T-shirt,sharkee_shop_1,28,5,Amazing phone
+134,2020/8/15 19:23:40,Airism Black T-shirt,sharkee_shop_5,319,5,Excellent shirt
+43,2020/8/15 21:12:08,Airism Black T-shirt,sharkee_shop_3,246,5,Excellent shirt
+11,2020/8/15 22:26:48,Airism Black T-shirt,sharkee_shop_3,270,5,Excellent shirt
+229,2020/8/16 0:04:45,Airism Black T-shirt,sharkee_shop_5,370,4,Soft and airy
+193,2020/8/16 2:16:32,Airism White T-shirt,sharkee_shop_5,8,5,Excellent shirt
+239,2020/8/16 6:36:53,Skinny Tapered Jeans,sharkee_shop_5,336,2,Poor quality
+203,2020/8/16 7:06:24,Peach Tea,sharkee_shop_3,154,2,"Tasteless drink, doesn’t taste like peach"
+166,2020/8/16 8:42:43,Airism White T-shirt,sharkee_shop_1,272,3,the white colour is yellowish
+41,2020/8/16 9:22:59,Airism Black T-shirt,sharkee_shop_4,131,5,Excellent shirt
+8,2020/8/16 13:06:12,Airism Black T-shirt,sharkee_shop_4,83,5,Excellent shirt
+299,2020/8/16 13:47:08,Peach Tea,sharkee_shop_3,53,2,"Tasteless drink, doesn’t taste like peach"
+61,2020/8/16 17:05:08,Airism Black T-shirt,sharkee_shop_1,108,5,Excellent shirt
+61,2020/8/16 17:58:40,Peach Tea,sharkee_shop_3,33,2,"Tasteless drink, doesn’t taste like peach"
+222,2020/8/16 20:22:22,Airism Black T-shirt,sharkee_shop_5,164,5,Excellent shirt
+185,2020/8/16 20:58:04,Airism Black T-shirt,sharkee_shop_5,255,5,Excellent shirt
+149,2020/8/16 22:38:41,Airism White T-shirt,sharkee_shop_1,89,5,Excellent shirt
+116,2020/8/17 5:23:04,Airism Black T-shirt,sharkee_shop_4,135,5,Excellent shirt
+229,2020/8/17 7:08:57,Airism White T-shirt,sharkee_shop_1,229,3,the white colour is yellowish
+35,2020/8/17 12:37:23,Airism Black T-shirt,sharkee_shop_3,321,5,Excellent shirt
+94,2020/8/17 17:09:27,Airism Black T-shirt,sharkee_shop_3,348,5,Excellent shirt
+238,2020/8/17 19:27:14,Airism White T-shirt,sharkee_shop_5,132,5,Excellent shirt
+158,2020/8/17 21:42:48,Airism White T-shirt,sharkee_shop_4,160,5,Excellent shirt
+83,2020/8/18 1:20:51,Airism Black T-shirt,sharkee_shop_5,363,4,Soft and airy
+122,2020/8/18 1:47:07,Airism Black T-shirt,sharkee_shop_1,37,5,Excellent shirt
+176,2020/8/18 2:20:06,Airism White T-shirt,sharkee_shop_4,359,5,Excellent shirt
+71,2020/8/18 2:41:12,Airism Black T-shirt,sharkee_shop_3,178,5,Excellent shirt
+190,2020/8/18 2:55:13,Airism White T-shirt,sharkee_shop_3,101,5,Excellent shirt
+199,2020/8/18 5:02:16,Airism Black T-shirt,sharkee_shop_1,38,5,Excellent shirt
+78,2020/8/18 8:28:19,Airism Black T-shirt,sharkee_shop_3,252,5,Excellent shirt
+57,2020/8/18 10:29:29,Airism Black T-shirt,sharkee_shop_4,376,5,Excellent shirt
+271,2020/8/18 12:06:08,Airism White T-shirt,sharkee_shop_5,199,5,Excellent shirt
+246,2020/8/18 13:20:25,Airism Black T-shirt,sharkee_shop_3,209,5,Excellent shirt
+114,2020/8/18 17:59:17,Airism Black T-shirt,sharkee_shop_5,273,5,Excellent shirt
+43,2020/8/18 21:31:24,Airism Black T-shirt,sharkee_shop_5,249,5,Excellent shirt
+168,2020/8/18 21:37:02,Peach Tea,sharkee_shop_3,125,2,"Tasteless drink, doesn’t taste like peach"
+183,2020/8/18 21:59:49,Skinny Tapered Jeans,sharkee_shop_5,392,2,Poor quality
+282,2020/8/19 0:54:38,Skinny Tapered Jeans,sharkee_shop_5,365,2,Poor quality
+90,2020/8/19 1:41:25,Peach Tea,sharkee_shop_3,104,2,"Tasteless drink, doesn’t taste like peach"
+205,2020/8/19 2:02:07,Airism Black T-shirt,sharkee_shop_5,267,5,Excellent shirt
+141,2020/8/19 2:47:03,Airism Black T-shirt,sharkee_shop_3,296,5,Excellent shirt
+68,2020/8/19 3:43:37,Airism White T-shirt,sharkee_shop_1,235,2,Poor quality
+160,2020/8/19 6:03:32,Peach Tea,sharkee_shop_3,78,2,"Tasteless drink, doesn’t taste like peach"
+22,2020/8/19 7:56:26,Airism White T-shirt,sharkee_shop_4,258,5,Excellent shirt
+34,2020/8/19 9:15:32,Airism Black T-shirt,sharkee_shop_4,59,5,Excellent shirt
+14,2020/8/19 11:43:48,Airism White T-shirt,sharkee_shop_4,14,5,Excellent shirt
+75,2020/8/19 18:00:24,Peach Tea,sharkee_shop_3,7,2,"Tasteless drink, doesn’t taste like peach"
+65,2020/8/19 18:27:54,iPhone Xs,sharkee_shop_1,332,5,Amazing phone
+74,2020/8/19 19:12:53,Peach Tea,sharkee_shop_3,139,2,"Tasteless drink, doesn’t taste like peach"
+117,2020/8/19 21:11:20,Skinny Tapered Jeans,sharkee_shop_5,313,2,Poor quality
+96,2020/8/19 23:32:03,Airism Black T-shirt,sharkee_shop_5,188,5,Excellent shirt
+284,2020/8/19 23:45:43,Peach Tea,sharkee_shop_3,171,2,"Tasteless drink, doesn’t taste like peach"
+10,2020/8/20 1:11:27,Airism White T-shirt,sharkee_shop_4,360,5,Excellent shirt
+88,2020/8/20 1:16:48,Airism White T-shirt,sharkee_shop_3,119,5,Excellent shirt
+24,2020/8/20 2:57:50,iPhone Xs,sharkee_shop_1,322,5,Amazing phone
+122,2020/8/20 5:35:45,Airism White T-shirt,sharkee_shop_3,32,5,Excellent shirt
+70,2020/8/20 5:56:40,iPhone Xs,sharkee_shop_1,290,5,Amazing phone
+61,2020/8/20 7:35:14,Airism White T-shirt,sharkee_shop_1,70,5,Excellent shirt
+222,2020/8/20 10:52:32,Skinny Tapered Jeans,sharkee_shop_5,285,2,Poor quality
+225,2020/8/20 11:56:25,Airism Black T-shirt,sharkee_shop_5,284,5,Excellent shirt
+185,2020/8/20 13:14:06,Airism White T-shirt,sharkee_shop_5,153,5,Excellent shirt
+171,2020/8/20 15:01:07,Airism Black T-shirt,sharkee_shop_5,256,5,Excellent shirt
+150,2020/8/20 15:16:23,Airism Black T-shirt,sharkee_shop_5,314,5,Excellent shirt
+263,2020/8/20 15:46:47,Airism White T-shirt,sharkee_shop_3,106,5,Excellent shirt
+57,2020/8/20 19:52:48,iPhone Xs,sharkee_shop_1,329,5,Amazing phone
+87,2020/8/20 21:10:18,Airism White T-shirt,sharkee_shop_4,18,5,Excellent shirt
+115,2020/8/20 22:40:40,Skinny Tapered Jeans,sharkee_shop_5,277,2,Poor quality
+300,2020/8/20 23:16:28,Peach Tea,sharkee_shop_3,73,2,"Tasteless drink, doesn’t taste like peach"
+293,2020/8/21 0:20:41,Airism Black T-shirt,sharkee_shop_3,206,5,Excellent shirt
+251,2020/8/21 2:00:18,Airism Black T-shirt,sharkee_shop_4,13,5,Excellent shirt
+189,2020/8/21 2:05:41,iPhone Xs,sharkee_shop_1,334,5,Amazing phone
+98,2020/8/21 3:15:16,Airism Black T-shirt,sharkee_shop_5,364,4,Soft and airy
+240,2020/8/21 3:40:14,Airism Black T-shirt,sharkee_shop_3,264,5,Excellent shirt
+193,2020/8/21 6:13:44,Peach Tea,sharkee_shop_3,179,2,"Tasteless drink, doesn’t taste like peach"
+212,2020/8/21 8:38:47,Peach Tea,sharkee_shop_3,19,2,"Tasteless drink, doesn’t taste like peach"
+16,2020/8/21 10:08:48,Airism Black T-shirt,sharkee_shop_4,44,5,Excellent shirt
+80,2020/8/21 13:57:24,Airism White T-shirt,sharkee_shop_3,130,5,Excellent shirt
+136,2020/8/21 14:09:08,Airism Black T-shirt,sharkee_shop_3,241,5,Excellent shirt
+87,2020/8/21 14:42:29,Airism White T-shirt,sharkee_shop_1,183,2,Poor quality
+234,2020/8/21 16:52:11,Airism Black T-shirt,sharkee_shop_5,387,4,Soft and airy
+183,2020/8/21 17:01:56,Peach Tea,sharkee_shop_3,68,2,"Tasteless drink, doesn’t taste like peach"
+57,2020/8/21 18:38:39,Airism Black T-shirt,sharkee_shop_3,349,5,Excellent shirt
+99,2020/8/21 20:13:26,Airism White T-shirt,sharkee_shop_4,300,5,Excellent shirt
+28,2020/8/21 22:09:20,Airism Black T-shirt,sharkee_shop_4,90,5,Excellent shirt
+258,2020/8/21 23:48:29,Airism Black T-shirt,sharkee_shop_3,186,5,Excellent shirt
+2,2020/8/22 4:54:01,Peach Tea,sharkee_shop_3,201,2,"Tasteless drink, doesn’t taste like peach"
+110,2020/8/22 5:39:02,Airism White T-shirt,sharkee_shop_5,129,5,Excellent shirt
+92,2020/8/22 8:05:59,Airism White T-shirt,sharkee_shop_5,187,5,Excellent shirt
+113,2020/8/22 11:53:48,Airism White T-shirt,sharkee_shop_3,165,3,the white colour is yellowish
+237,2020/8/22 13:55:25,Airism White T-shirt,sharkee_shop_4,3,5,Excellent shirt
+255,2020/8/22 16:46:09,Peach Tea,sharkee_shop_3,362,2,"Tasteless drink, doesn’t taste like peach"
+264,2020/8/22 18:06:17,Airism Black T-shirt,sharkee_shop_1,147,5,Excellent shirt
+100,2020/8/22 18:34:20,Peach Tea,sharkee_shop_3,145,2,"Tasteless drink, doesn’t taste like peach"
+76,2020/8/22 18:42:51,iPhone Xs,sharkee_shop_1,338,5,Amazing phone
+68,2020/8/22 19:12:38,Airism White T-shirt,sharkee_shop_4,366,5,Excellent shirt
+222,2020/8/22 21:05:35,Airism Black T-shirt,sharkee_shop_4,324,5,Excellent shirt
+248,2020/8/22 21:35:13,Airism White T-shirt,sharkee_shop_4,351,5,Excellent shirt
+22,2020/8/23 5:54:17,Airism Black T-shirt,sharkee_shop_5,350,4,Soft and airy
+189,2020/8/23 7:51:51,Airism Black T-shirt,sharkee_shop_1,58,5,Excellent shirt
+296,2020/8/23 8:02:12,Airism White T-shirt,sharkee_shop_3,80,5,Excellent shirt
+60,2020/8/23 9:18:35,Peach Tea,sharkee_shop_3,191,2,"Tasteless drink, doesn’t taste like peach"
+283,2020/8/23 9:41:26,Airism Black T-shirt,sharkee_shop_4,136,5,Excellent shirt
+14,2020/8/23 12:23:10,Airism White T-shirt,sharkee_shop_5,105,5,Excellent shirt
+187,2020/8/23 16:26:54,Airism White T-shirt,sharkee_shop_1,198,3,the white colour is yellowish
+40,2020/8/23 17:11:41,Airism Black T-shirt,sharkee_shop_3,240,5,Excellent shirt
+15,2020/8/23 17:28:04,Airism White T-shirt,sharkee_shop_1,245,3,the white colour is yellowish
+77,2020/8/23 20:02:48,Airism White T-shirt,sharkee_shop_3,30,5,Excellent shirt
+103,2020/8/23 20:51:45,Airism Black T-shirt,sharkee_shop_4,93,5,Excellent shirt
+56,2020/8/23 21:08:20,Peach Tea,sharkee_shop_3,195,2,"Tasteless drink, doesn’t taste like peach"
+158,2020/8/23 21:37:14,Airism White T-shirt,sharkee_shop_1,185,2,Not comfortable
+138,2020/8/23 22:23:08,Airism Black T-shirt,sharkee_shop_5,158,5,Excellent shirt
+43,2020/8/24 0:27:55,Peach Tea,sharkee_shop_3,261,2,"Tasteless drink, doesn’t taste like peach"
+1,2020/8/24 4:18:21,Airism White T-shirt,sharkee_shop_1,42,5,Excellent shirt
+138,2020/8/24 4:22:12,Airism White T-shirt,sharkee_shop_5,114,5,Excellent shirt
+103,2020/8/24 8:13:42,Airism Black T-shirt,sharkee_shop_3,217,5,Excellent shirt
+146,2020/8/24 8:48:03,Airism White T-shirt,sharkee_shop_1,176,3,the white colour is yellowish
+124,2020/8/24 15:42:52,Airism Black T-shirt,sharkee_shop_4,84,5,Excellent shirt
+126,2020/8/24 18:11:47,Airism White T-shirt,sharkee_shop_5,242,5,Excellent shirt
+48,2020/8/24 19:34:41,Airism White T-shirt,sharkee_shop_3,167,3,the white colour is yellowish
+88,2020/8/24 19:53:23,Airism White T-shirt,sharkee_shop_5,230,5,Excellent shirt
+213,2020/8/24 22:22:34,Airism Black T-shirt,sharkee_shop_4,368,5,Excellent shirt
+129,2020/8/24 23:04:46,Airism Black T-shirt,sharkee_shop_5,396,4,Soft and airy
+187,2020/8/25 0:01:48,Airism White T-shirt,sharkee_shop_1,243,3,the white colour is yellowish
+244,2020/8/25 3:18:51,Airism Black T-shirt,sharkee_shop_1,110,5,Excellent shirt
+230,2020/8/25 7:30:31,Airism White T-shirt,sharkee_shop_1,268,3,the white colour is yellowish
+44,2020/8/25 8:17:42,Skinny Tapered Jeans,sharkee_shop_5,262,2,Poor quality
+126,2020/8/25 8:37:55,Airism Black T-shirt,sharkee_shop_5,173,5,Excellent shirt
+193,2020/8/25 12:07:26,Airism White T-shirt,sharkee_shop_1,224,3,the white colour is yellowish
+87,2020/8/25 13:16:58,Airism White T-shirt,sharkee_shop_1,192,2,Poor quality
+157,2020/8/25 13:58:15,Peach Tea,sharkee_shop_3,9,2,"Tasteless drink, doesn’t taste like peach"
+272,2020/8/25 15:00:35,Airism White T-shirt,sharkee_shop_1,61,5,Excellent shirt
+258,2020/8/25 15:13:12,Airism Black T-shirt,sharkee_shop_5,384,4,Soft and airy
+98,2020/8/25 15:37:59,Peach Tea,sharkee_shop_3,356,2,"Tasteless drink, doesn’t taste like peach"
+266,2020/8/25 17:29:50,Airism Black T-shirt,sharkee_shop_5,166,5,Excellent shirt
+230,2020/8/25 19:00:40,Airism Black T-shirt,sharkee_shop_4,146,5,Excellent shirt
+46,2020/8/25 21:36:40,Airism Black T-shirt,sharkee_shop_5,225,5,Excellent shirt
+65,2020/8/25 23:42:00,Airism Black T-shirt,sharkee_shop_3,172,5,Excellent shirt
+49,2020/8/26 7:13:20,Airism Black T-shirt,sharkee_shop_5,260,5,Excellent shirt
+246,2020/8/26 11:56:01,Airism Black T-shirt,sharkee_shop_3,251,5,Excellent shirt
+288,2020/8/26 12:44:17,Peach Tea,sharkee_shop_3,5,2,"Tasteless drink, doesn’t taste like peach"
+232,2020/8/26 15:02:04,Airism Black T-shirt,sharkee_shop_5,390,4,Soft and airy
+253,2020/8/26 16:23:15,Airism White T-shirt,sharkee_shop_1,180,3,the white colour is yellowish
+251,2020/8/26 19:40:38,Skinny Tapered Jeans,sharkee_shop_5,308,2,Poor quality
+183,2020/8/26 20:19:16,Airism Black T-shirt,sharkee_shop_5,212,5,Excellent shirt
+299,2020/8/27 3:22:33,Airism Black T-shirt,sharkee_shop_3,299,5,Excellent shirt
+215,2020/8/27 3:24:49,Airism White T-shirt,sharkee_shop_5,175,5,Excellent shirt
+124,2020/8/27 3:34:51,Airism White T-shirt,sharkee_shop_5,228,5,Excellent shirt
+102,2020/8/27 4:09:40,Peach Tea,sharkee_shop_3,115,2,"Tasteless drink, doesn’t taste like peach"
+159,2020/8/27 5:19:22,Airism Black T-shirt,sharkee_shop_4,40,5,Excellent shirt
+44,2020/8/27 7:13:48,Airism White T-shirt,sharkee_shop_3,55,5,Excellent shirt
+174,2020/8/27 11:41:17,Airism White T-shirt,sharkee_shop_1,72,5,Excellent shirt
+189,2020/8/27 17:55:19,Airism White T-shirt,sharkee_shop_3,99,5,Excellent shirt
+230,2020/8/27 18:47:37,Airism Black T-shirt,sharkee_shop_4,326,5,Excellent shirt
+107,2020/8/27 23:17:49,Airism White T-shirt,sharkee_shop_4,161,5,Excellent shirt
+270,2020/8/28 4:23:25,Airism White T-shirt,sharkee_shop_3,39,5,Excellent shirt
+258,2020/8/28 5:28:07,Airism Black T-shirt,sharkee_shop_1,36,5,Excellent shirt
+242,2020/8/28 7:18:12,Airism Black T-shirt,sharkee_shop_4,1,5,Excellent shirt
+211,2020/8/28 8:05:23,Airism White T-shirt,sharkee_shop_3,82,5,Excellent shirt
+240,2020/8/28 9:34:28,Airism Black T-shirt,sharkee_shop_5,150,5,Excellent shirt
+190,2020/8/28 11:31:55,Airism White T-shirt,sharkee_shop_1,200,3,the white colour is yellowish
+182,2020/8/28 12:55:35,Airism Black T-shirt,sharkee_shop_4,91,5,Excellent shirt
+41,2020/8/28 17:30:33,Airism White T-shirt,sharkee_shop_5,97,5,Excellent shirt
+38,2020/8/28 17:57:06,Airism Black T-shirt,sharkee_shop_5,353,4,Soft and airy
+27,2020/8/28 21:29:34,Airism White T-shirt,sharkee_shop_4,379,5,Excellent shirt
+232,2020/8/28 21:37:02,Airism White T-shirt,sharkee_shop_4,386,5,Excellent shirt
+242,2020/8/28 21:57:06,Airism White T-shirt,sharkee_shop_5,112,5,Excellent shirt
+100,2020/8/29 0:06:39,Airism White T-shirt,sharkee_shop_4,287,5,Excellent shirt
+80,2020/8/29 3:15:18,Airism Black T-shirt,sharkee_shop_1,49,5,Excellent shirt
+209,2020/8/29 7:25:52,Skinny Tapered Jeans,sharkee_shop_5,269,2,Poor quality
+239,2020/8/29 7:58:56,Peach Tea,sharkee_shop_3,54,2,"Tasteless drink, doesn’t taste like peach"
+124,2020/8/29 13:58:36,Peach Tea,sharkee_shop_3,346,2,"Tasteless drink, doesn’t taste like peach"
+57,2020/8/29 15:22:18,Airism White T-shirt,sharkee_shop_3,162,3,the white colour is yellowish
+263,2020/8/29 15:36:26,Airism Black T-shirt,sharkee_shop_3,275,5,Excellent shirt
+176,2020/8/30 3:39:29,Airism Black T-shirt,sharkee_shop_4,45,5,Excellent shirt
+214,2020/8/30 5:08:24,Peach Tea,sharkee_shop_3,117,2,"Tasteless drink, doesn’t taste like peach"
+215,2020/8/30 6:59:45,Airism White T-shirt,sharkee_shop_3,107,5,Excellent shirt
+14,2020/8/30 7:52:15,Airism White T-shirt,sharkee_shop_1,11,5,Excellent shirt
+179,2020/8/30 9:11:20,Airism White T-shirt,sharkee_shop_3,31,5,Excellent shirt
+233,2020/8/30 10:07:54,Airism White T-shirt,sharkee_shop_5,232,5,Excellent shirt
+222,2020/8/30 10:58:12,Airism White T-shirt,sharkee_shop_1,81,5,Excellent shirt
+79,2020/8/30 12:10:57,Airism White T-shirt,sharkee_shop_1,22,5,Excellent shirt
+215,2020/8/30 13:13:44,Airism Black T-shirt,sharkee_shop_4,21,5,Excellent shirt
+163,2020/8/30 14:33:35,Airism Black T-shirt,sharkee_shop_3,343,5,Excellent shirt
+215,2020/8/30 15:47:25,Skinny Tapered Jeans,sharkee_shop_5,323,2,Poor quality
+228,2020/8/30 17:44:53,Airism Black T-shirt,sharkee_shop_4,46,5,Excellent shirt
+203,2020/8/30 17:45:48,Airism Black T-shirt,sharkee_shop_5,377,4,Soft and airy
+231,2020/8/30 18:08:23,Airism Black T-shirt,sharkee_shop_1,159,5,Excellent shirt
+83,2020/8/30 18:37:17,Airism Black T-shirt,sharkee_shop_5,373,4,Soft and airy
+168,2020/8/30 20:25:34,Airism Black T-shirt,sharkee_shop_5,371,4,Soft and airy
+157,2020/8/30 20:49:32,Airism White T-shirt,sharkee_shop_4,152,5,Excellent shirt
+198,2020/8/30 23:53:59,Airism White T-shirt,sharkee_shop_5,184,5,Excellent shirt
+240,2020/8/31 1:04:06,Airism White T-shirt,sharkee_shop_4,317,5,Excellent shirt
+77,2020/8/31 4:13:42,Airism Black T-shirt,sharkee_shop_5,385,4,Soft and airy
+60,2020/8/31 7:21:22,Airism White T-shirt,sharkee_shop_4,378,5,Excellent shirt
+14,2020/8/31 7:39:06,Peach Tea,sharkee_shop_3,221,2,"Tasteless drink, doesn’t taste like peach"
+28,2020/8/31 7:53:20,iPhone Xs,sharkee_shop_1,283,5,Amazing phone
+171,2020/8/31 11:49:18,Airism Black T-shirt,sharkee_shop_5,337,4,Soft and airy
+51,2020/8/31 13:06:05,Airism White T-shirt,sharkee_shop_4,367,5,Excellent shirt
+107,2020/8/31 14:25:20,Airism White T-shirt,sharkee_shop_1,250,3,the white colour is yellowish
+146,2020/8/31 14:43:01,Airism White T-shirt,sharkee_shop_1,281,3,the white colour is yellowish
+78,2020/8/31 15:28:26,Airism Black T-shirt,sharkee_shop_4,141,5,Excellent shirt
+240,2020/8/31 18:07:07,Peach Tea,sharkee_shop_3,211,2,"Tasteless drink, doesn’t taste like peach"
+218,2020/8/31 21:54:03,Airism Black T-shirt,sharkee_shop_1,127,5,Excellent shirt
